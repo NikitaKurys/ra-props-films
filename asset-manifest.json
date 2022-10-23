@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ra-props-films/static/css/main.e64ee097.css",
+    "main.js": "/ra-props-films/static/js/main.c61d831d.js",
+    "static/js/787.b920b5bd.chunk.js": "/ra-props-films/static/js/787.b920b5bd.chunk.js",
+    "index.html": "/ra-props-films/index.html",
+    "main.e64ee097.css.map": "/ra-props-films/static/css/main.e64ee097.css.map",
+    "main.c61d831d.js.map": "/ra-props-films/static/js/main.c61d831d.js.map",
+    "787.b920b5bd.chunk.js.map": "/ra-props-films/static/js/787.b920b5bd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e64ee097.css",
+    "static/js/main.c61d831d.js"
+  ]
+}
