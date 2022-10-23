@@ -51,5 +51,7 @@ return (
 
 Важно: вам нужно реализовать только отображение звездочек (карточку фильма не нужно).
 
+[![Build status](https://ci.appveyor.com/api/projects/status/mx5qnl367f6m8msc/branch/main?svg=true)](https://ci.appveyor.com/project/NikitaKurys62983/ra-props-films/branch/main)
+[GH-Pages](https://nikitakurys.github.io/ra-props-films/)
 ---
 
